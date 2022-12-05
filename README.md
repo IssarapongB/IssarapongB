@@ -18,9 +18,9 @@ I am seeking for a new challenge in order to earn the experiences and develop my
 
 <a href="#"><img align="left" alt="HTML5" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" ></a>
 
-<a href="#" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+<a href="https://postimages.org/" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
 
-<a href="#" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+<a href="https://postimages.org/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
