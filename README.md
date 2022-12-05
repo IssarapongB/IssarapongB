@@ -2,7 +2,7 @@
 
  💬 I'm Electrical Engineer ⚡ from Thailand  
  🔭 About work experience : Electrical Engineer , R&D Engineer , Quality Assurance Enginner  
- 🌱 I’m currently learning Python Programimg , PHP/CSS/HTML/SQL   
+ 🌱 I’m currently learning Python Programimg , PHP/CSS/HTML/SQL , VBA/Excel Macro Programing  
  
 I am seeking for a new challenge in order to earn the experiences and develop my progressive career.    
 
