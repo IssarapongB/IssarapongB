@@ -1,6 +1,6 @@
 ### Welcome to Github : Issarapong Boonsong  👋
 
- 💬 Ask me about I'm Electrical Engineer ⚡ from Thailand 
+ 💬 I'm Electrical Engineer ⚡ from Thailand 
  🔭 About work experience : Electrical Engineer , R&D Engineer , Quality Assurance Enginner
  🌱 I’m currently learning Python Programimg , PHP/CSS/HTML/SQL 
  
